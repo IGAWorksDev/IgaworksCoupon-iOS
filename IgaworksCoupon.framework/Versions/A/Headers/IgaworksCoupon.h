@@ -39,6 +39,10 @@
 @protocol IgaworksCouponDelegate <NSObject>
 @optional
 
+/*!
+ @abstract
+ 쿠폰 코드 검증이 완료되면, 결과를 전달한다.
+ */
 - (void)igaworksCouponValidationDidComplete:(BOOL)result message:(NSString *)message;
 
 @end
