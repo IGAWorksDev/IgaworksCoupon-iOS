@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "IgaworksCoupon"
-s.version      = "2.0.1"
+s.version      = "2.0.2"
 s.summary      = "IgaworksCoupon.framework"
 s.homepage     = "https://github.com/IGAWorksDev/IgaworksCoupon-iOS"
 
